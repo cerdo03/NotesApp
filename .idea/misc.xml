@@ -6,9 +6,12 @@
         <entry key="app/src/main/res/drawable-v24/bground.xml" value="0.1695" />
         <entry key="app/src/main/res/drawable-v24/ic_baseline_delete_outline_24.xml" value="0.1695" />
         <entry key="app/src/main/res/drawable-v24/ic_outline_edit_24.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/ic_baseline_notes_24.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1695" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.13728470111448834" />
         <entry key="app/src/main/res/layout/item.xml" value="0.13728470111448834" />
         <entry key="app/src/main/res/layout/other_activity.xml" value="0.18659420289855072" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.147" />
       </map>
     </option>
   </component>
